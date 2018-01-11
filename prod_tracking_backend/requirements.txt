@@ -1,0 +1,6 @@
+Django==2.0
+django-cors-headers==2.1.0
+djangorestframework==3.7.3
+lxml==4.1.1
+python-docx==0.8.6
+pytz==2017.3
